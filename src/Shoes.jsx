@@ -1,0 +1,3 @@
+export const Shoes = [{name:'Adidas', price:1300,articul:34324,idm:0, category:'Snekeers', date_sale:'12-12-2020', url:'http://res.cloudinary.com/dbdyyzatb/image/upload/v1701671554/bonaFide/xzr5yrlw7mdw3r5dgbuo.jpg'},
+{name:'Nike', price:1000,articul:43242,idm:0, category:'Snekeers', date_sale:'12-12-2020',url:'http://res.cloudinary.com/dbdyyzatb/image/upload/v1701671554/bonaFide/xzr5yrlw7mdw3r5dgbuo.jpg'},
+{name:'Reebok', price:1200, category:'Snekeers', date_sale:'12-12-2020',articul:5345, idm:0, url:'http://res.cloudinary.com/dbdyyzatb/image/upload/v1701671554/bonaFide/xzr5yrlw7mdw3r5dgbuo.jpg'},];
